@@ -32,7 +32,7 @@
 // OCEAN
 
 const COLORS = {
-  primary: "#1976D2",
+  primary: "#1976d2",
   textPrimary: "#1a4971",
   textSecondary: "#6d93b8",
   textDark: "#0d2b43",
